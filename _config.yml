@@ -1,0 +1,28 @@
+name: Jamz Entertainment
+favicon: null
+layout_spectrum: 0.11676020850427449
+typography_spectrum: 0.3725054080132395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6804373012855649
+  lightness: 0.6959096188656986
+  saturation: 0.5091689378023148
+  rhythmicContrast: 0.9883438600227237
+purpose: []
